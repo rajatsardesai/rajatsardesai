@@ -7,8 +7,8 @@ I am a frontend developer and I mostly use React in my side projects. You can ch
 ## 😉 Personal Analytics
 <p align="center">
  <a href="https://github.com/rajatsardesai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afozbek&show_icons=true&theme=dracula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=afozbek&layout=compact&theme=dracula&hide=jupyter%20notebook&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajatsardesai&show_icons=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsardesai&layout=compact&theme=dracula&hide=jupyter%20notebook&langs_count=7"/>
  </a>
 </p>
 
