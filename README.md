@@ -21,10 +21,6 @@ As a frontend developer most of my time I write HTML, CSS, JAVASCRIPT, REACT. Bu
 [![](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)]()
 [![](https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&logoColor=white)]()
 [![](https://img.shields.io/badge/react-132bb1?style=for-the-badge&logo=react&logoColor=white)]()
-[![](https://img.shields.io/badge/vue-42b883?style=for-the-badge&logo=vue.js&logoColor=white)]()
-[![](https://img.shields.io/badge/node-3C873A?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![](https://img.shields.io/badge/java-f67317?style=for-the-badge&logo=java&logoColor=white)]()
-[![](https://img.shields.io/badge/python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)]()
 
 ## ⭐ Some of my projects
 
