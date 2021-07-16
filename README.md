@@ -8,7 +8,7 @@ I am a frontend developer and I mostly use React in my side projects. You can ch
 <p align="center">
  <a href="https://github.com/rajatsardesai">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajatsardesai&show_icons=true&theme=dracula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsardesai&layout=compact&theme=dracula&hide=jupyter%20notebook&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsardesai&layout=compact&theme=dracula&hide=php"/>
  </a>
 </p>
 
@@ -35,5 +35,3 @@ Feel free to contact me about the problems. 😉
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-sardesai-460213147/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:furkanozbek1995@gmail.com)](mailto:rajatsardesai@gmail.com)
 [![Github Badge](https://img.shields.io/badge/github-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajatsardesai)
-
-
