@@ -14,7 +14,7 @@ I am a frontend developer and I mostly use React in my side projects. You can ch
 
 ## 💖 What programming languages I like
 
-As a frontend developer most of my time I write HTML, CSS, JAVASCRIPT, REACT. But in my free time I am trying to build some projects in the backend as well. On serverside I use PHP most of the time because why don't use react on backend? 😎
+As a frontend developer most of my time I write HTML, CSS, JAVASCRIPT, REACT. But in my free time I am trying to build some projects in the backend as well.😎
 
 [![](https://img.shields.io/badge/html-e34c26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=white)]()
