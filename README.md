@@ -1,4 +1,4 @@
-# 👋 Hello devs
+# 👋 Hello there
 
 ## 😎 Rajat's Github Profile
 
