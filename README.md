@@ -2,7 +2,7 @@
 
 ## 😎 Rajat's Github Profile
 
-I am a frontend developer and I mostly use React in my side projects. You can check out some of my projects and if you got any questions you can reach out in the links below.
+Passionate DevOps Engineer & Software Developer from India. Expert in Docker, Kubernetes, Jenkins, Terraform, Ansible, and scripting. Advocate for CI/CD, automation, and infrastructure as code. Committed to fostering innovation and collaboration in software development. Let's connect and drive excellence together! 🚀
 
 ## 😉 Personal Analytics
 <p align="center">
@@ -12,9 +12,25 @@ I am a frontend developer and I mostly use React in my side projects. You can ch
  </a>
 </p>
 
-## 💖 What programming languages I like
+## 💖 Tech Stack
 
-As a frontend developer most of my time I write HTML, CSS, JAVASCRIPT, REACT. But in my free time I am trying to build some projects in the backend as well.😎
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)]()
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)]()
+[![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)]()
+[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)]()
+[![Prom](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)]()
+[![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)]()
+[![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)]()
+[![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![VS](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)]()
+[![Post](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
+[![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)]()
 
 [![](https://img.shields.io/badge/html-e34c26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=white)]()
@@ -24,9 +40,8 @@ As a frontend developer most of my time I write HTML, CSS, JAVASCRIPT, REACT. Bu
 
 ## ⭐ Some of my projects
 
-- [Collection of React Projects](https://github.com/rajatsardesai/react-demo-project) - **Recommended and More will be coming soon** ✨
-- [Github Profile Search](https://github.com/rajatsardesai)
-- [Todo App](https://github.com/rajatsardesai/react-demo-project/tree/master/Todo%20List)
+- [DevSecOps-Project](https://github.com/rajatsardesai/DevSecOps-Project)
+- [Vprofile-project](https://github.com/rajatsardesai/vprofile-project)
 
 ## 🤙🏻 You can reach out
 
