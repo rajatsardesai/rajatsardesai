@@ -1,8 +1,10 @@
-# 👋 Hello there
+<h1 align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Rajat.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+</h1>
 
 ## 😎 Rajat's Github Profile
 
-Passionate DevOps Engineer & Software Developer from India. Expert in Docker, Kubernetes, Jenkins, Terraform, Ansible, and scripting. Advocate for CI/CD, automation, and infrastructure as code. Committed to fostering innovation and collaboration in software development. Let's connect and drive excellence together! 🚀
+Passionate Software Developer from India. Expert in HTML5, CSS3, Javascript, ReactJS and NodeJS. Advocate for Software, UI Development and Designing. Committed to fostering innovation and collaboration in software development. Let's connect and drive excellence together! 🚀
 
 ## 😉 Personal Analytics
 <p align="center">
@@ -14,34 +16,30 @@ Passionate DevOps Engineer & Software Developer from India. Expert in Docker, Ku
 
 ## 💖 Tech Stack
 
+[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
+[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Expressjs](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+[![github pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pages.github.com/)
+[![visualstudio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)]()
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)]()
-[![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)]()
-[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)]()
-[![Prom](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)]()
-[![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)]()
-[![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)]()
-[![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![VS](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
-[![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)]()
 [![Post](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
 [![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)]()
-
-[![](https://img.shields.io/badge/html-e34c26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![](https://img.shields.io/badge/css-264de4?style=for-the-badge&logo=css3&logoColor=white)]()
-[![](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)]()
-[![](https://img.shields.io/badge/sass-cc6699?style=for-the-badge&logo=sass&logoColor=white)]()
-[![](https://img.shields.io/badge/react-132bb1?style=for-the-badge&logo=react&logoColor=white)]()
+[![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 ## ⭐ Some of my projects
 
-- [DevSecOps-Project](https://github.com/rajatsardesai/DevSecOps-Project)
-- [Vprofile-project](https://github.com/rajatsardesai/vprofile-project)
+- [Hekto - Online Furniture Shopping Store](https://github.com/rajatsardesai/Hekto)
+- [Tic-tac-toe](https://github.com/rajatsardesai/Tic-tac-toe)
 
 ## 🤙🏻 You can reach out
 
