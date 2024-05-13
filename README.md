@@ -38,8 +38,9 @@ Passionate Software Developer from India. Expert in HTML5, CSS3, Javascript, Rea
 
 ## ⭐ Some of my projects
 
-- [Hekto - Online Furniture Shopping Store](https://github.com/rajatsardesai/Hekto)
-- [Tic-tac-toe](https://github.com/rajatsardesai/Tic-tac-toe)
+- [Google-Gemma](https://github.com/rajatsardesai/Google-Gemma)
+- [Tata-EV-Landing](https://github.com/rajatsardesai/Tata-EV-Landing)
+- [Neuzy-Blog](https://github.com/rajatsardesai/Neuzy-Blog)
 
 ## 🤙🏻 You can reach out
 
