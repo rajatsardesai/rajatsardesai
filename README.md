@@ -4,7 +4,7 @@
 
 ## 😎 Rajat's Github Profile
 
-Passionate Software Developer from India. Expert in HTML5, CSS3, Javascript, ReactJS and NodeJS. Advocate for Software, UI Development and Designing. Committed to fostering innovation and collaboration in software development. Let's connect and drive excellence together! 🚀
+Passionate DevOps Engineer from India. Expert in cloud infrastructure, CI/CD pipelines, Docker, Kubernetes, and automation tools. Advocate for streamlined software development, deployment, and operations. Committed to fostering innovation and collaboration in the DevOps ecosystem. Let's connect and drive operational excellence together! 🚀
 
 ## 😉 Personal Analytics
 <p align="center">
@@ -16,6 +16,21 @@ Passionate Software Developer from India. Expert in HTML5, CSS3, Javascript, Rea
 
 ## 💖 Tech Stack
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]
+[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
+![Prom](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![VS](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
@@ -25,12 +40,11 @@ Passionate Software Developer from India. Expert in HTML5, CSS3, Javascript, Rea
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![Expressjs](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
+![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 [![github pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pages.github.com/)
 [![visualstudio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]()
+
+
 [![Post](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
 [![Jira](https://img.shields.io/badge/-Jira-000?&style=for-the-badge&logo=Jira-Software&logoColor=0052CC)]()
 [![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
@@ -38,9 +52,9 @@ Passionate Software Developer from India. Expert in HTML5, CSS3, Javascript, Rea
 
 ## ⭐ Some of my projects
 
-- [Google-Gemma](https://github.com/rajatsardesai/Google-Gemma)
-- [Tata-EV-Landing](https://github.com/rajatsardesai/Tata-EV-Landing)
-- [Neuzy-Blog](https://github.com/rajatsardesai/Neuzy-Blog)
+- [Terraform-Multi-Cloud-Deployment](https://github.com/rajatsardesai/Terraform-Multi-Cloud-Deployment)
+- [DevSecOps-Project](https://github.com/rajatsardesai/DevSecOps-Project)
+- [Ansible-Monitoring](https://github.com/rajatsardesai/Ansible-Monitoring)
 
 ## 🤙🏻 You can reach out
 
