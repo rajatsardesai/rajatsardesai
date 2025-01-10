@@ -46,9 +46,9 @@ Passionate Frontend Developer from India. Skilled in crafting responsive, user-c
 
 ## ⭐ Some of my projects
 
-- [Terraform-Multi-Cloud-Deployment](https://github.com/rajatsardesai/Terraform-Multi-Cloud-Deployment)
-- [DevSecOps-Project](https://github.com/rajatsardesai/DevSecOps-Project)
-- [Ansible-Monitoring](https://github.com/rajatsardesai/Ansible-Monitoring)
+- [Random-Gradient](https://github.com/rajatsardesai/random-gradient)
+- [Google-Gemma](https://github.com/rajatsardesai/Google-Gemma)
+- [Tata-EV-Landing](https://github.com/rajatsardesai/Tata-EV-Landing)
 
 ## 🤙🏻 You can reach out
 
