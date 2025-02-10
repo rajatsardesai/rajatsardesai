@@ -46,9 +46,9 @@ Passionate Frontend Developer from India. Skilled in crafting responsive, user-c
 
 ## ⭐ Some of my projects
 
+- [Libra-Track](https://github.com/rajatsardesai/libra-track)
 - [Random-Gradient](https://github.com/rajatsardesai/random-gradient)
 - [Google-Gemma](https://github.com/rajatsardesai/Google-Gemma)
-- [Tata-EV-Landing](https://github.com/rajatsardesai/Tata-EV-Landing)
 
 ## 🤙🏻 You can reach out
 
