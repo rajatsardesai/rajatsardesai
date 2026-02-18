@@ -6,8 +6,8 @@
 
 DevOps & Cloud Engineer from India with ~3 years of experience building and automating cloud-native infrastructure. Skilled in AWS, Kubernetes (EKS), Terraform, Ansible, Docker, and GitOps (ArgoCD), with strong scripting in Python and Bash on Linux systems. Experienced in designing CI/CD pipelines, improving system reliability, and implementing observability using Prometheus and Grafana. Let's connect and build engaging digital experiences together! 🌟
 
-## 😉 Personal Analytics
-<!-- <p align="center">
+<!--## 😉 Personal Analytics
+ <p align="center">
  <a href="https://github.com/rajatsardesai">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajatsardesai&show_icons=true&theme=dracula">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsardesai&layout=compact&theme=dracula&hide=php"/>
